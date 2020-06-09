@@ -1,6 +1,6 @@
 {
   "name": "use-copy-to-clipboard",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "react copy to clipboard hook",
   "main": "dist/index.js",
   "homepage": "https://github.com/TerryLee7788/use-copy-to-clipboard",
