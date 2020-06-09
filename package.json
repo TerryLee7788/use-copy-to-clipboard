@@ -1,7 +1,7 @@
 {
   "name": "use-copy-to-clipboard",
   "version": "1.0.2",
-  "description": "",
+  "description": "react copy to clipboard hook",
   "main": "dist/index.js",
   "homepage": "https://github.com/TerryLee7788/use-copy-to-clipboard",
   "scripts": {
@@ -10,12 +10,20 @@
   "files": [
     "dist"
   ],
-  "keywords": [],
+  "keywords": [
+    "react",
+    "react copy",
+    "react copy to clipboard",
+    "copy",
+    "clipboard",
+    "react copy component",
+    "react copy hook"
+  ],
   "bugs": {
     "url": "https://github.com/TerryLee7788/use-copy-to-clipboard/issues"
   },
   "author": "terrylee7788",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.10.2",
     "@babel/preset-env": "^7.10.2",
