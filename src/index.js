@@ -3,7 +3,7 @@ import React, { useState, useRef, useCallback } from 'react'
 const useCopyToClipboard = () => {
     const [copyText, setCopyText] = useState('')
     const inputRef = useRef()
-    const copy = useCallback((text, opts) => {
+    const copy = useCallback((text, opts = {}) => {
         setCopyText(text)
         const {
             message
